@@ -14,3 +14,8 @@ ERROR CASE
 3. Blank user name and password
 4. Protected route for dashboard (http://localhost:3000/dashboard) not accessible without login
 5. Error response from server
+
+
+SUCCESS CASE
+---------------------------------------------------------------------------
+1. Display user name and token on dashboard
